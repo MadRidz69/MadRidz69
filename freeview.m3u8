@@ -60,6 +60,65 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
+#EXTINF:-1,beIN Sports 1 4K
+http://195.154.242.24:8001/play/a016/index.m3u8
+#EXTINF:-1,beIN Sports 1 Premium FHD
+http://195.154.242.24:8001/play/a013/index.m3u8
+
+#EXTINF:-1,beIN Sports 2 4K
+http://195.154.242.24:8001/play/a017/index.m3u8
+
+#EXTINF:-1,beIN Sports 2 Premium FHD
+http://195.154.242.24:8001/play/a014/index.m3u8
+
+#EXTINF:-1,beIN Sports 3 4K
+http://195.154.242.24:8001/play/a018/index.m3u8
+#EXTINF:-1,beIN Sports 3 FHD
+http://195.154.242.24:8001/play/a011/index.m3u8
+
+#EXTINF:-1,beIN Sports 4 4K
+http://195.154.242.24:8001/play/a019/index.m3u8
+#EXTINF:-1,beIN Sports 4 FHD
+http://195.154.242.24:8001/play/a00z/index.m3u8
+
+#EXTINF:-1,beIN Sports 5 4K
+http://195.154.242.24:8001/play/a01a/index.m3u8
+#EXTINF:-1,beIN Sports 5 FHD
+
+#EXTINF:-1,beIN Sports 6 4K
+http://195.154.242.24:8001/play/a01b/index.m3u8
+#EXTINF:-1,beIN Sports 6 FHD
+http://195.154.242.24:8001/play/a010/index.m3u8
+
+#EXTINF:-1,beIN Sports 7 4K
+http://195.154.242.24:8001/play/a01c/index.m3u8
+#EXTINF:-1,beIN Sports 7 FHD
+http://195.154.242.24:8001/play/a012/index.m3u8
+
+#EXTINF:-1,beIN Sports English 1 4K
+http://195.154.242.24:8001/play/a01g/index.m3u8
+#EXTINF:-1,beIN Sports English 2 4K
+http://195.154.242.24:8001/play/a01h/index.m3u8
+#EXTINF:-1,beIN Sports French 1 4K
+http://195.154.242.24:8001/play/a01i/index.m3u8
+
+EXTINF:-1,beIN Sports French 2 4K
+http://195.154.242.24:8001/play/a01j/index.m3u8
+#EXTINF:-1,beIN Sports HD
+http://195.154.242.24:8001/play/a003/index.m3u8
+#EXTINF:-1,beIN Sports NBA 4K
+http://195.154.242.24:8001/play/a01k/index.m3u8
+#EXTINF:-1,beIN Sports NBA HD
+http://195.154.242.24:8001/play/a00o/index.m3u8
+#EXTINF:-1,beIN Sports News HD
+http://195.154.242.24:8001/play/a002/index.m3u8
+#EXTINF:-1,beIN Sports Premium 1 4K
+http://195.154.242.24:8001/play/a01d/index.m3u8
+#EXTINF:-1,beIN Sports Premium 2 4K
+http://195.154.242.24:8001/play/a01e/index.m3u8
+#EXTINF:-1,beIN Sports Premium 3 4K
+http://195.154.242.24:8001/play/a01f/index.m3u8
+
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
 
