@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
@@ -6,7 +7,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3 FHD
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
@@ -30,14 +31,14 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8|Referer=https://rtm
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
-https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/114.png",TV Alhijrah
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_7284c6607dcb11ec8005ad1f1e0e9f60/index.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
-https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
-https://weareblahs.github.io/yttestlabs/youtube.m3u
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
@@ -100,7 +101,7 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:0 tvg-id="TVNMovies.hk" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvnmovies.png" group-title="Movies",tvN Movies
+#EXTINF:0 tvg-id="TVNMovies.hk" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_415.png" group-title="Movies",tvN Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
@@ -110,32 +111,32 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:0 tvg-id="CelestialMoviesIndonesia.id" tvg-name="Celestial Movies" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="Movies",Celestial Movies
+#EXTINF:0 tvg-id="CelestialMoviesIndonesia.id" tvg-name="Celestial Movies" tvg-url="http://www.mncvision.id.E" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png" group-title="Movies",Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:0 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/thrill.png" group-title="Movies",Thrill
+#EXTINF:0 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-url="http://www.mncvision.id.E" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Movies",Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:0 tvg-id="FMN.id" tvg-name="FMN" tvg-logo="http://dusktill.masuk.web.id/img/fmn.png" group-title="Movies",FMN
+#EXTINF:0 tvg-id="FMN.id" tvg-name="FMN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fmn.jpg" group-title="Movies",FMN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:0 tvg-id="Cinema World" tvg-name="Cinema World" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/cinemaworld.png" group-title="Movies",Cinema World
+#EXTINF:0 tvg-id="Cinema World" tvg-name="Cinema World" tvg-url="http://www.useetv.com" tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/cinema-world.png" group-title="Movies",Cinema World
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
-#EXTINF:0 tvg-id="CelestialClassicMovies.hk" tvg-name="CCM" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/ccm.png" group-title="Movies",Celestial Classic Movies
+#EXTINF:0 tvg-id="CelestialClassicMovies.hk" tvg-name="CCM" tvg-url="http://www.mncvision.id.E" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest?cb=20190603053700" group-title="Movies",Celestial Classic Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:0 tvg-id="ZeeBioskop.in" tvg-name="ZEE Biokop" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/zeebioskop.png" group-title="Movies",ZEE BIOSKOP
+#EXTINF:0 tvg-id="ZeeBioskop.in" tvg-name="ZEE Biokop" tvg-url="http://www.mncvision.id.E" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png" group-title="Movies",ZEE BIOSKOP
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
@@ -149,15 +150,6 @@ https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.favpng.com/14/12/16/youtube-failarmy-television-show-humour-png-favpng-uRGAf9tEabrWWv3dYkhyGtJEv.jpg" group-title="Movies",FAIL ARMY
-https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x0NowEh.png" group-title="Movies",MovieSphere
-https://moviesphere-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Movie24/7" tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Movies",Movie 24/7
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
