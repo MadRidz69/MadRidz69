@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-          <S d="540000" r="9" t="148985748573070" />
-        </SegmentTimeline>
-      </SegmentTemplate>
-      <Representation bandwidth="30000" codecs="stpp" id="subtitle/smptett_frag_bitmap_may_profile_0_video-cif-stream-1" />
-    </AdaptationSet>
-  </Period>
-</MPD>
