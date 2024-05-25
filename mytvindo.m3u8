@@ -1,4 +1,1 @@
 #EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 
-https://live-production.secureswiftcontent.com/exp=1660716127~acl=/hls-p/ingest_6711_*/*~hmac=57ecb6034d0a53c14b396c3753d8c21299d764e2d4db08a3592e783cae554e29/hls-p/ingest_6711_720p/index.m3u8
