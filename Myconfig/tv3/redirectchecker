@@ -1,8 +1,1 @@
-x.addEventListener('readystatechange',function(){
 
-    const url = 'https://bapok.best';
-    if(this.responseURL != url){
-        alert('redirected');
-    }
-
-});
