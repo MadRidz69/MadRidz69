@@ -1,0 +1,105 @@
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 tvg-id="CHN" ch-number="099" group-title="Information" tvg-logo="https://eternalsunshineoftheismind.wordpress.com/wp-content/uploads/2013/02/information1.png",INFORMATION to Subcribe
+https://tinyurl.com/tamatdahni-m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="106" tvg-id="106" tvg-chno="106" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=150&appID=TONTON",Drama Sangat
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",DidikTV KPM
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV9
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",Sukan RTM
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="112" tvg-id="112" tvg-chno="112" tvg-logo="https://awesometv.my/upload/Logo%20&%20Favicon/logo-ATV.png",Awesome TV
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",TV6
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://tvalhijrah.com/wp-content/uploads/2023/04/TV_Alhijrah_logo-1.png",TV Alhijrah
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://suketv.com/sitepad-data/uploads/2023/06/STV_WHITE-LOGO-1.png",Suke TV
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://www.bernama.com/tv/assets/img/bernama.png",Bernama
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/03/tvs-logo-reduced.png",TVS
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/01-homepage/logo-berita.png",Berita RTM
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://radioklasik.rtm.gov.my/storage/app/uploads/public/610/365/877/610365877cb69073862261.png",Radio Klasik
+https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://nasionalfm.rtm.gov.my/storage/app/uploads/public/610/365/b39/610365b3953b8749236902.png",Nasional FM
+https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://traxxfm.rtm.gov.my/storage/app/uploads/public/610/366/ab7/610366ab7e7f2731499824.png",Traxx FM
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="https://minnalfm.rtm.gov.my/storage/app/uploads/public/610/364/ead/610364eaddd37015252656.png",Minnal FM
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="https://aifm.rtm.gov.my/storage/app/uploads/public/610/366/55c/61036655c4ab3209025602.png",Ai FM
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="https://asyikfm.rtm.gov.my/storage/app/uploads/public/610/363/a10/610363a102023061998674.png",Asyik FM
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="707" tvg-id="707" tvg-chno="707" tvg-logo="https://sabahfm.rtm.gov.my/storage/app/uploads/public/608/0c5/2ac/6080c52accea9537873246.png",Sabah FM
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="https://sabahvfm.rtm.gov.my/storage/app/uploads/public/606/54c/ef6/60654cef61c96099935060.png",Sabah VFM
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="709" tvg-id="709" tvg-chno="709" tvg-logo="https://sarawakfm.rtm.gov.my/storage/app/uploads/public/608/0c5/760/6080c5760040e087022034.png",Sarawak FM
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="710" tvg-id="710" tvg-chno="710" tvg-logo="https://waifmiban.rtm.gov.my/storage/app/uploads/public/608/0cc/e1b/6080cce1bf429907468608.png",Wai FM
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="711" tvg-chno="711" tvg-logo="https://assets.radioactive.sg/org-bernama/283fd16b-9085-4526-90ad-fdcf2213b064-app_Bernama%28new%29_logo_W750xH750.png",Bernama Radio
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="721" tvg-chno="721" tvg-logo="https://assets-mpa.hotfm.audio/media/Logo/profile_photo_1000x1000-01_v2.jpg",Hot FM
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="722" tvg-chno="722" tvg-logo="https://assets-mpa.kool101.audio/media/Logo/profile_photo_1000x1000-03.jpg",Kool 101
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="724" tvg-chno="723" tvg-logo="https://assets-mpa.flyfm.audio/media/Logo/profile_photo_1000x1000-04.jpg",Fly FM
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://assets-mpa.eight.audio/media/Logo/profile_photo_1000x1000-09.jpg",8FM
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="725" tvg-chno="725" tvg-logo="https://assets.audioplus.audio/2021/12/profile_photo_1000x1000-03-300x300.jpg",Molek FM
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="726" tvg-chno="726" tvg-logo="https://www.manis.fm/wp-content/uploads/2020/02/cropped-manisfm_new-01-1024x308.png",Manis FM
+https://livesim.dashif.org/livesim2/testpic_2s/Manifest.mpd
