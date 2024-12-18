@@ -1,0 +1,6 @@
+#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440"
+
+#EXTINF:-1 tvg-id="104.astro" ch-number="104" group-title="SementaraAda" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",ASTRO RIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=3f726fd5cbbf5944437a4dbfab431b10&key=376b009796e4ad50ea8f68d796676692
+https://linears-playback.astro.com.my/vsg/20Lx_IO8Hs3mpA_fPtHd_fp6j9B2xVOpMw7R5siNIQEaI=TJ7t/dash-wv/jitp-linearwm/1004/default_primary.mpd
