@@ -2,5 +2,12 @@
 
 #EXTINF:-1 tvg-id="104.astro" ch-number="104" group-title="SementaraAda" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",ASTRO RIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=3f726fd5cbbf5944437a4dbfab431b10&key=376b009796e4ad50ea8f68d796676692
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 https://linears-playback.astro.com.my/vsg/20Lx_IO8Hs3mpA_fPtHd_fp6j9B2xVOpMw7R5siNIQEaI=TJ7t/dash-wv/jitp-linearwm/1004/default_primary.mpd
+
+----------------------------------------------------------------------------------- Series ----------------------------------------------------------------------
+
+#EXTINF:-1 type="series" tvg-id="" tvg-name="Episode 35" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOYBP_P_IVP_PORT_750x1126_7E34A_20241018_174014.jpg" group-title="Andai Tiada Dia",Episode 35
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d6e7ed107d4725ba0d354d2a7c6b810:123708bc2c8f7db06c9fa2eff5defcf5
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/5112cbad-f8c7-5518-9b5b-89034ec20086/default_primary.mpd#*.mp4
